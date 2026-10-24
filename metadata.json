@@ -1,0 +1,6 @@
+{
+  "name": "Eku Phone Tycoon",
+  "description": "Akıllı telefon şirketinizi kurun; MediaTek, Snapdragon, RAM, depolama, AMOLED ekran ve kamera donanımlarıyla telefonlar tasarlayıp pazarı fethedin!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
